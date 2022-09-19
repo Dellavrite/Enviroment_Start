@@ -1,2 +1,2 @@
-# Enviroment_Start
-Start working enviroment with optionfl settings
+# Environment_Start
+Start working environment with optional settings
